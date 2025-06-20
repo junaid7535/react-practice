@@ -1,0 +1,16 @@
+.btn{
+    margin-left : 100px;
+    font-size : 20px;
+    background-color : yellow;
+    cursor : pointer;
+    border-radius : 5px;
+}
+
+.btn:hover{
+    background-color : gray;
+}
+
+.count{
+    margin-left : 100px;
+    font-size : 20px;
+}
